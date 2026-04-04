@@ -72,7 +72,7 @@ Git • GitHub
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/sharad-pal-22b5a7325  
-- 🌐 Portfolio: https://sharadpalprofileweb.tiiny.site  
+
 
 ---
 
