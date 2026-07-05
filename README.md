@@ -1,197 +1,367 @@
-# 👋 Hi, I'm Sharad Pal
+# Hi, I'm Sharad Pal
 
-🎓 **B.Tech Computer Science & Engineering** @ IIIT Senapati, Manipur (CGPA: **8.67**)
-💻 **Full Stack MERN Developer**
-🤖 **AI/ML Enthusiast | Computer Vision Explorer**
-🚀 Passionate about building scalable software that solves real-world problems.
+<div align="center">
+
+# 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+
+🎓 B.Tech Computer Science & Engineering  
+🏫 Indian Institute of Information Technology Senapati, Manipur  
+
+💻 Building Scalable Full Stack Applications  
+🤖 Exploring AI, Machine Learning & Intelligent Systems  
+
+</div>
+
+
+---
+
+## 🌐 Portfolio
+
+🚀 Explore my developer portfolio:
+
+🔗 https://sharadpal-portfolio-eta.vercel.app
+
+Built with:
+
+⚡ Next.js 16  
+🎨 Tailwind CSS  
+📩 Production Contact System  
+🤖 AI-focused Project Showcase  
+▲ Deployed on Vercel
+
 
 ---
 
 # 🚀 About Me
 
-I enjoy transforming ideas into production-ready applications using modern web technologies while continuously expanding my knowledge of Artificial Intelligence and Machine Learning.
 
-Currently, I'm focused on:
+I am a Computer Science undergraduate passionate about building production-ready software, scalable backend systems, and AI-powered applications.
 
-* ⚡ Building scalable Full Stack MERN applications
-* 🧠 Learning AI/ML through real-world projects
-* 💻 Strengthening Data Structures & Algorithms
-* 🌐 Exploring scalable software architecture and backend systems
+I enjoy converting ideas into real-world products using modern engineering practices.
+
+Currently focusing on:
+
+
+- ⚡ Full Stack MERN Development
+- 🧠 Artificial Intelligence & Machine Learning
+- 📊 Data Structures and Algorithms
+- 🏗️ Backend Architecture & System Design
+- 🌍 Open Source Collaboration
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+
+</p>
+
+
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap" />
+
+</p>
+
+
+## ⚙️ Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
+
+
+- REST API Development
+- JWT Authentication
+- MVC Architecture
+- Secure Backend Systems
+
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+
+- MongoDB Atlas
+- Mongoose
+- Database Design
+
+
+## 🤖 AI / Machine Learning
+
+- Python
+- Machine Learning
+- Computer Vision
+- YOLOv8
+- DINOv2
+- Scikit-Learn
+- Pandas
+- NumPy
+- Streamlit
+
+
+## 🧰 Tools & Deployment
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+
+</p>
+
+
+- Render
+- Cloudinary
+- Firebase
+
 
 ---
 
-# 💻 Tech Stack
-
-### Programming Languages
-
-* C++
-* JavaScript (ES6+)
-* Python
-* SQL
-
-### Frontend
-
-* React.js
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-* Vite
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* MVC Architecture
-
-### Database
-
-* MongoDB Atlas
-* Mongoose
-* MySQL
-
-### AI / Machine Learning
-
-* Python
-* Scikit-Learn
-* Pandas
-* NumPy
-* Streamlit
-* YOLOv8
-* DINOv2
-* Computer Vision
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Cloudinary
-* Vercel
-* Render
-
----
 
 # 🚀 Featured Projects
 
-## 🛍️ Zenthrixa – Production-Ready MERN E-Commerce Platform
 
-* Secure JWT Authentication
-* Stripe & Razorpay Integration
-* Admin Dashboard
-* Cloudinary Image Upload
-* Product & Order Management
-* Responsive UI
-* RESTful APIs
+## 🤖 Clutch AI — AI Productivity Platform
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Stripe • Razorpay
 
----
+AI-powered productivity companion designed to improve task planning and execution.
 
-## 🎓 E-Learning Platform
-
-A complete learning management system built using the MERN stack.
 
 ### Features
 
-* JWT Authentication
-* Role-Based Access Control
-* Course Enrollment
-* Stripe Payment Gateway
-* Lesson Progress Tracking
-* Responsive Dashboard
+
+- Gemini AI Integration
+- Task Intelligence Engine
+- Deadline Risk Prediction
+- AI Generated Planning
+- Firebase Authentication
+
+
+**Tech Stack**
+
+React.js • Firebase • Gemini API • Tailwind CSS
+
 
 ---
 
-## 🍔 Logibite – AI Powered Food Delivery Platform *(In Progress)*
 
-Building a modern food delivery platform integrating AI for:
+## 🛒 Zenthrixa — Scalable MERN E-Commerce Platform
 
-* Personalized Food Recommendations
-* Smart Search
-* AI Chat Assistant
-* Secure Payments
-* Order Tracking
 
----
+Production-oriented full stack commerce platform.
 
-## 🌍 SafeSphere – AI Disaster Risk Prediction
 
-Machine Learning application that predicts:
+### Features
 
-* Flood Risk
-* Landslide Risk
-* Heatwave Risk
 
-Built using:
+- Secure Authentication
+- Admin Dashboard
+- Product Management
+- Payment Integration
+- Order Management
+- REST API Architecture
 
-* Python
-* Scikit-Learn
-* Streamlit
-* Random Forest
-* Feature Engineering
+
+**Tech Stack**
+
+MongoDB • Express.js • React.js • Node.js
+
 
 ---
 
-## 👁️ CodeNova – Adaptive Object Recognition System
 
-Hackathon project exploring modern Computer Vision.
+## 🎓 E-Learning Platform
 
-Features:
 
-* YOLOv8 Object Detection
-* DINOv2 Foundation Embeddings
-* Similarity-Based Retrieval
-* Dynamic Learning
-* Computer Vision Pipeline
+Full stack Learning Management System.
+
+
+### Features
+
+
+- JWT Authentication
+- Role Based Authorization
+- Course Enrollment System
+- Lesson Progress Tracking
+- Stripe Payment Integration
+- Dashboard Management
+
+
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB • Stripe
+
 
 ---
+
+
+## 🍔 Logibite — AI Powered Food Delivery Platform
+
+
+Modern food delivery ecosystem with intelligent features.
+
+
+### Features
+
+
+- AI Food Recommendations
+- Smart Search
+- Review Intelligence
+- Order Management
+- Payment System
+
+
+**Tech Stack**
+
+MERN Stack • AI Integration
+
+
+---
+
+
+## 👁️ CodeNova — Adaptive Object Recognition System
+
+
+AI-powered object recognition system capable of learning new objects dynamically.
+
+
+### Features
+
+
+- YOLOv8 Object Detection
+- DINOv2 Feature Extraction
+- Similarity Search Pipeline
+- Dynamic Learning Workflow
+- Real-Time Recognition
+
+
+**Tech Stack**
+
+Python • YOLOv8 • DINOv2 • OpenCV • Streamlit
+
+
+---
+
+
+## 🌍 SafeSphere — AI Disaster Risk Prediction
+
+
+Machine learning system for environmental risk prediction.
+
+
+### Features
+
+
+- Disaster Risk Classification
+- Data Analysis
+- Predictive Modeling
+- ML Workflow Implementation
+
+
+**Tech Stack**
+
+Python • Machine Learning • Data Analysis
+
+
+---
+
 
 # 🏆 Achievements
 
-* 🥇 Top **3%** of B.Tech CSE Batch @ IIIT Senapati
-* 💻 Solved **200+ DSA Problems**
-* 🚀 Semi-Finalist – ET-AI Hackathon 2026
-* 🌍 Contributor – Open Source Connect Global 2026
-* 🏅 Global Rank **101** – AI-Thon Global Coding Conquest
+
+
+💻 Solved 200+ Data Structures & Algorithms Problems  
+🚀 Top 10 Finalist — Vibe2Ship Hackathon (Clutch AI)  
+🤖 Semi-Finalist — ET AI Hackathon 2026  
+🌍 Contributor — Open Source Connect Global 2026  
+🏆 Global Rank 101 — AI-Thon Global Coding Conquest  
+💡 TechSprint Manipur AI Hackathon Participant  
+📚 Completed Competitive Programming Workshop by GeeksforGeeks  
+
 
 ---
 
-# 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharadpal8055\&show_icons=true\&theme=tokyonight)
+# 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sharadpal8055\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadpal8055\&layout=compact\&theme=tokyonight)
+<div align="center">
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharadpal8055&show_icons=true&theme=tokyonight" />
+
+
+<img width="48%" src="https://streak-stats.demolab.com?user=sharadpal8055&theme=tokyonight" />
+
+
+<br/>
+
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadpal8055&layout=compact&theme=tokyonight" />
+
+
+</div>
+
 
 ---
 
-# 🌱 Currently Learning
 
-* Advanced Data Structures & Algorithms
-* System Design Fundamentals
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Large Language Models (LLMs)
+# 📚 Currently Improving
+
+
+- Advanced DSA
+- System Design
+- Backend Scalability
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models
+
 
 ---
 
-# 🤝 Let's Connect
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/sharad-pal-22b5a7325
+# 🤝 Connect With Me
 
-💻 **GitHub:**
+
+🌐 Portfolio  
+https://sharadpal-portfolio-eta.vercel.app
+
+
+💼 LinkedIn  
+https://www.linkedin.com/in/sharad-pal
+
+
+💻 GitHub  
 https://github.com/sharadpal8055
 
-📧 **Email:**
-[sharadpal230255@gmail.com](mailto:sharadpal230255@gmail.com)
+
+📧 Email  
+
+sharadpal230255@gmail.com
+
 
 ---
 
-⭐ **"I believe great software is built by continuously learning, experimenting, and solving meaningful problems."**
+
+<div align="center">
+
+## ⭐ Building. Learning. Improving.
+
+### Turning ideas into scalable software solutions 🚀
+
+</div>
