@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+# Full Stack Developer | AI Enthusiast | Problem Solver
 
 🎓 B.Tech Computer Science & Engineering  
 🏫 Indian Institute of Information Technology Senapati, Manipur  
