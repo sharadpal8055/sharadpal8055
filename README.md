@@ -32,7 +32,7 @@ Built with:
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 
 I am a Computer Science undergraduate passionate about building production-ready software, scalable backend systems, and AI-powered applications.
