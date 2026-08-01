@@ -1,367 +1,330 @@
-# Hi, I'm Sharad Pal
+<h1 align="center">Hi 👋, I'm Sharad Pal</h1>
 
-<div align="center">
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Problem Solver
+</h3>
 
-# Full Stack Developer | AI Enthusiast | Problem Solver
+<p align="center">
+🎓 B.Tech Computer Science & Engineering <br/>
+🏫 Indian Institute of Information Technology Senapati, Manipur
+</p>
 
-🎓 B.Tech Computer Science & Engineering  
-🏫 Indian Institute of Information Technology Senapati, Manipur  
-
-💻 Building Scalable Full Stack Applications  
-🤖 Exploring AI, Machine Learning & Intelligent Systems  
-
-</div>
-
+<p align="center">
+I build scalable web applications, AI-powered solutions, and modern full-stack products using the MERN stack and Python.
+</p>
 
 ---
 
-## 🌐 Portfolio
+## 🚀 Portfolio
 
-🚀 Explore my developer portfolio:
+🌐 **Portfolio**
 
-🔗 https://sharadpal-portfolio-eta.vercel.app
+https://sharadpal-portfolio-eta.vercel.app
 
 Built with:
 
-⚡ Next.js 16  
-🎨 Tailwind CSS  
-📩 Production Contact System  
-🤖 AI-focused Project Showcase  
-▲ Deployed on Vercel
-
-
----
-
-#  About Me
-
-
-I am a Computer Science undergraduate passionate about building production-ready software, scalable backend systems, and AI-powered applications.
-
-I enjoy converting ideas into real-world products using modern engineering practices.
-
-Currently focusing on:
-
-
-- ⚡ Full Stack MERN Development
-- 🧠 Artificial Intelligence & Machine Learning
-- 📊 Data Structures and Algorithms
-- 🏗️ Backend Architecture & System Design
-- 🌍 Open Source Collaboration
-
+- Next.js 16
+- Tailwind CSS
+- Framer Motion
+- Responsive Design
+- AI Project Showcase
+- Production Contact System
 
 ---
 
-# 🛠️ Tech Stack
+# 👨‍💻 About Me
 
+- 💻 Full Stack MERN Developer
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📚 Currently learning System Design & Backend Scalability
+- ⚡ Passionate about building real-world software products
+- 🌱 Open Source Contributor
+- 🧩 Problem Solver
 
-## 💻 Programming Languages
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-
 </p>
 
+---
 
-## 🎨 Frontend Development
+## Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap" />
-
 </p>
 
+**Libraries**
 
-## ⚙️ Backend Development
+- React Router
+- Context API
+- Axios
+- Framer Motion
+- React PDF
+
+---
+
+## Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 </p>
 
-
-- REST API Development
+- REST APIs
 - JWT Authentication
 - MVC Architecture
-- Secure Backend Systems
+- Cookie Authentication
+- Zod Validation
+- File Uploads
+- Cloudinary Integration
 
+---
 
-## 🗄️ Databases
+## Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
 </p>
-
 
 - MongoDB Atlas
 - Mongoose
-- Database Design
+- MySQL
 
+---
 
-## 🤖 AI / Machine Learning
+## AI / Machine Learning
 
 - Python
-- Machine Learning
-- Computer Vision
+- NumPy
+- Pandas
+- Scikit-Learn
+- OpenCV
 - YOLOv8
 - DINOv2
-- Scikit-Learn
-- Pandas
-- NumPy
 - Streamlit
+- Computer Vision
 
+---
 
-## 🧰 Tools & Deployment
-
+## Tools & Platforms
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel" />
 </p>
 
+Additionally:
 
 - Render
 - Cloudinary
-- Firebase
-
+- Stripe
+- MongoDB Atlas
 
 ---
-
 
 # 🚀 Featured Projects
 
-
-## 🤖 Clutch AI — AI Productivity Platform
-
-
-AI-powered productivity companion designed to improve task planning and execution.
-
-
-### Features
-
-
-- Gemini AI Integration
-- Task Intelligence Engine
-- Deadline Risk Prediction
-- AI Generated Planning
-- Firebase Authentication
-
-
-**Tech Stack**
-
-React.js • Firebase • Gemini API • Tailwind CSS
-
-
 ---
 
+## 🎓 FutureNest — Full Stack Learning Management System
 
-## 🛒 Zenthrixa — Scalable MERN E-Commerce Platform
-
-
-Production-oriented full stack commerce platform.
-
+A modern Learning Management System with secure authentication, premium courses, interview preparation, digital library, and progress tracking.
 
 ### Features
-
-
-- Secure Authentication
-- Admin Dashboard
-- Product Management
-- Payment Integration
-- Order Management
-- REST API Architecture
-
-
-**Tech Stack**
-
-MongoDB • Express.js • React.js • Node.js
-
-
----
-
-
-## 🎓 E-Learning Platform
-
-
-Full stack Learning Management System.
-
-
-### Features
-
 
 - JWT Authentication
-- Role Based Authorization
-- Course Enrollment System
-- Lesson Progress Tracking
-- Stripe Payment Integration
-- Dashboard Management
-
+- Role-Based Access Control
+- Course Enrollment
+- Premium Courses
+- Stripe Payments
+- Digital Notes Library
+- Responsive PDF Viewer
+- Interview Preparation Module
+- Learning Progress Tracking
+- Admin Dashboard
+- Cloudinary Storage
 
 **Tech Stack**
 
-React.js • Node.js • Express.js • MongoDB • Stripe
+React • Node.js • Express • MongoDB • Stripe • Cloudinary • Tailwind CSS
 
+🔗 Live Demo
+
+https://future-nest-jet.vercel.app
 
 ---
 
+## 🤖 Clutch AI
 
-## 🍔 Logibite — AI Powered Food Delivery Platform
-
-
-Modern food delivery ecosystem with intelligent features.
-
+AI-powered productivity assistant that proactively helps users plan work before deadlines.
 
 ### Features
 
+- Gemini AI
+- Risk Prediction
+- Smart Planning
+- Rescue Suggestions
+- Firebase Authentication
 
-- AI Food Recommendations
-- Smart Search
-- Review Intelligence
+**Tech Stack**
+
+React • Firebase • Gemini API • Tailwind CSS
+
+---
+
+## 🛒 Zenthrixa
+
+Production-ready MERN E-Commerce Platform.
+
+### Features
+
+- Authentication
+- Product Management
+- Shopping Cart
+- Admin Dashboard
+- Payment Integration
 - Order Management
-- Payment System
 
+**Tech Stack**
+
+MongoDB • Express • React • Node.js
+
+---
+
+## 🍔 Logibite
+
+AI-powered Food Delivery Platform.
+
+### Features
+
+- Smart Recommendations
+- AI Search
+- Reviews
+- Ordering
+- Payment Integration
 
 **Tech Stack**
 
 MERN Stack • AI Integration
 
-
 ---
 
+## 👁️ CodeNova
 
-## 👁️ CodeNova — Adaptive Object Recognition System
-
-
-AI-powered object recognition system capable of learning new objects dynamically.
-
+Adaptive Object Recognition System.
 
 ### Features
 
-
-- YOLOv8 Object Detection
+- YOLOv8 Detection
 - DINOv2 Feature Extraction
-- Similarity Search Pipeline
-- Dynamic Learning Workflow
+- Similarity Search
 - Real-Time Recognition
 
-
 **Tech Stack**
 
-Python • YOLOv8 • DINOv2 • OpenCV • Streamlit
-
+Python • OpenCV • YOLOv8 • DINOv2 • Streamlit
 
 ---
 
+## 🌍 SafeSphere
 
-## 🌍 SafeSphere — AI Disaster Risk Prediction
-
-
-Machine learning system for environmental risk prediction.
-
+Machine Learning based Disaster Risk Prediction System.
 
 ### Features
 
-
-- Disaster Risk Classification
-- Data Analysis
-- Predictive Modeling
-- ML Workflow Implementation
-
+- Risk Prediction
+- Environmental Analysis
+- ML Models
+- Interactive Dashboard
 
 **Tech Stack**
 
-Python • Machine Learning • Data Analysis
-
+Python • Scikit-Learn • Pandas • Streamlit
 
 ---
-
 
 # 🏆 Achievements
 
-
-
-💻 Solved 200+ Data Structures & Algorithms Problems  
-🚀 Top 10 Finalist — Vibe2Ship Hackathon (Clutch AI)  
-🤖 Semi-Finalist — ET AI Hackathon 2026  
-🌍 Contributor — Open Source Connect Global 2026  
-🏆 Global Rank 101 — AI-Thon Global Coding Conquest  
-💡 TechSprint Manipur AI Hackathon Participant  
-📚 Completed Competitive Programming Workshop by GeeksforGeeks  
-
+- 💻 Solved **250+ DSA Problems**
+- 🏆 Top 10 Finalist — Vibe2Ship Hackathon (Clutch AI)
+- 🏆  Finalist — Zero to Ooe Hackathon (Pocket FM)
+- 🤖 Semi-Finalist — ET AI Hackathon 2026
+- 🌍 Open Source Connect Global Contributor
+- 🌎 Global Rank **101** — AI-Thon Global Coding Conquest
+- 💡 TechSprint Manipur AI Hackathon Participant
+- 📚 Competitive Programming Workshop — GeeksforGeeks
 
 ---
 
+# 📈 GitHub Analytics
 
-# 📊 GitHub Analytics
+<p align="center">
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharadpal8055&show_icons=true&theme=tokyonight"/>
 
-<div align="center">
+<img width="48%" src="https://streak-stats.demolab.com?user=sharadpal8055&theme=tokyonight"/>
 
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharadpal8055&show_icons=true&theme=tokyonight" />
+<p align="center">
 
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadpal8055&layout=compact&theme=tokyonight"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=sharadpal8055&theme=tokyonight" />
-
-
-<br/>
-
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadpal8055&layout=compact&theme=tokyonight" />
-
-
-</div>
-
+</p>
 
 ---
 
+# 📚 Currently Learning
 
-# 📚 Currently Improving
-
-
-- Advanced DSA
-- System Design
+- Advanced Data Structures & Algorithms
 - Backend Scalability
+- System Design
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Large Language Models
-
+- Generative AI
 
 ---
 
+# 🎯 2026 Goals
 
-# 🤝 Connect With Me
 
+- 🌟 Reach 500+ DSA Problems
+- 🤖 Build AI-first SaaS Products
+- 📱 Launch Production Applications
+- 🌍 Contribute More to Open Source
 
-🌐 Portfolio  
+---
+
+# 🤝 Let's Connect
+
+🌐 Portfolio
+
 https://sharadpal-portfolio-eta.vercel.app
 
+💼 LinkedIn
 
-💼 LinkedIn  
 https://www.linkedin.com/in/sharad-pal
 
+💻 GitHub
 
-💻 GitHub  
 https://github.com/sharadpal8055
 
+📧 Email
 
-📧 Email  
-
-sharadpal230255@gmail.com
-
+**sharadpal230255@gmail.com**
 
 ---
-
 
 <div align="center">
 
-## ⭐ Building. Learning. Improving.
+### ⭐ Thanks for visiting my profile!
 
-### Turning ideas into scalable software solutions 🚀
+*"Building scalable software and AI-powered applications that solve real-world problems."*
 
 </div>
