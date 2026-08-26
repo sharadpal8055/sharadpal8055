@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharad Pal</h1>
+<h1 align="center">Hi, I'm Sharad Pal</h1>
 
 <h3 align="center">
 Full Stack Developer • AI Enthusiast • Problem Solver
